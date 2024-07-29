@@ -1,10 +1,10 @@
 {
-  "name": "ngx-loading",
-  "version": "17.0.0",
+  "name": "@oxyvn/ngx-loading",
+  "version": "18.0.0",
   "description": "A customisable loading spinner for Angular applications.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zak-C/ngx-loading.git"
+    "url": "git+https://github.com/oxycoder/ngx-loading.git"
   },
   "keywords": [
     "Angular",
@@ -37,14 +37,15 @@
   "author": "Zak Cox",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Zak-C/ngx-loading/issues"
+    "url": "https://github.com/oxycoder/ngx-loading/issues"
   },
-  "homepage": "https://github.com/Zak-C/ngx-loading#readme",
+  "homepage": "https://github.com/oxycoder/ngx-loading#readme",
   "peerDependencies": {
-    "@angular/common": "^17.0.0",
-    "@angular/core": "^17.0.0"
+    "@angular/common": "^18.0.0",
+    "@angular/core": "^18.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
-  }
+  },
+  "private": false
 }
